@@ -1,0 +1,20 @@
+**Cooked Boar Meat**
+30 HP, 10 Stamina (for 1200 seconds)
+
+**Cooked Dear Meat**
+35 HP, 12 Stamina (for 1200 seconds)
+
+**Cooked Fish**
+45 HP, 15 Stamina (for 1200 seconds)
+
+**Cooked Lox Meat**
+50 HP, 16 Stamina (for 1200 seconds)
+
+**Cooked Serpent Meat**
+70 HP, 23 Stamina (for 1500 seconds)
+
+**Cooked Wolf Meat**
+45 HP, 15 Stamina (for 1200 seconds)
+
+**Grilled Neck Tail**
+25 HP, 8 Stamina (for 1200 seconds)

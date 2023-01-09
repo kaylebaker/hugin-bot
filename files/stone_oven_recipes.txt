@@ -1,0 +1,7 @@
+**Bread Dough**
+Bread
+25 HP, 75 Stamina (for 1800 seconds)
+
+**Uncooked Lox Pie**
+Lox Meat Pie
+75 HP, 24 Stamina (for 1800 seconds)

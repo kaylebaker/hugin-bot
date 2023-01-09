@@ -1,0 +1,89 @@
+**Black Soup**
+Bloodbag x1, Honey x1, Turnip x1
+Level 1 (base)
+50 HP, 17 Stamina (for 1200 seconds)
+
+**Boar Jerky**
+Boar Meat x1, Honey x1 (yields 2)
+Level 1 (base)
+20 HP, 20 Stamina (for 1800 seconds)
+
+**Carrot Soup**
+Carrot x3, Mushroom x1
+Level 1 (base)
+15 HP, 45 Stamina (for 1500 seconds)
+
+**Deer Stew**
+Cooked Dear Meat x1, Carrot x1, Blueberry x1
+Level 1 (base)
+40 HP, 13 Stamina (for 1200 seconds)
+
+**Minced Meat Sauce**
+Boar Meat x1, Neck Tail x1, Carrot x1
+Level 1 (base)
+45 HP, 15 Stamina (for 1500 seconds)
+
+**Onion Soup**
+Onion x3
+Level 1 (base)
+12 HP, 60 Stamina (for 1200 seconds)
+
+**Queens Jam**
+Raspberries x8, Blueberries x6 (yields 4)
+Level 1 (base)
+14 HP, 40 Stamina (for 1200 seconds)
+
+**Turnip Stew**
+Turnips x3, Raw Meat x1
+Level 1 (base)
+18 HP, 55 Stamina (for 1500 seconds)
+
+**Muckshake**
+Blueberries x2, Raspberries x2, Ooze x1
+Level 2 (Spice Rack)
+16 HP, 50 Stamina (for 1200 seconds)
+
+**Sausages**
+Boar Meat x1, Entrails x4, Thistle x1 (yields 4)
+Level 2 (Spice Rack)
+55 HP, 18 Stamina (for 1500 seconds)
+
+**Serpent Stew**
+Cooked Serpent Meat x1, Mushroom x1, Honey x2
+Level 2 (Spice Rack)
+80 HP, 26 Stamina (for 1800 seconds)
+
+**Eyescream**
+Greydwarf Eye x3, Freeze Gland x1
+Level 3 (Butcher's Table)
+21 HP, 65 Stamina (for 1500 seconds)
+
+**Wolf Jerky**
+Wolf Meat x1, Honey x1 (yields 2)
+Level 3 (Butcher's Table)
+30 HP, 30 Stamina (for 1800 seconds)
+
+**Wolf Skewer**
+Wolf Meat x1, Mushroom x2, Onion x1
+Level 3 (Butcher's Table)
+65 HP, 13 Stamina (for 1500 seconds)
+
+**Blood Pudding**
+Bloodbag x2, Barley Flour x4, Thistle x2
+Level 4 (Pots and Pans)
+23 HP, 70 Stamina (for 1500 seconds)
+
+**Bread Dough**
+Barley Flour x10
+Level 4 (Pots and Pans)
+N/A (finish in Stone Oven)
+
+**Fish Wraps**
+Cooked Fish x2, Barley Flour x4
+Level 4 (Pots and Pans)
+70 HP, 23 Stamina (for 1500 seconds)
+
+**Uncooked Lox Pie**
+Lox Meat x2, Cloudberries x2, Barley Flour x4
+Level 4 (Pots and Pans)
+N/A (finish in Stone Oven)

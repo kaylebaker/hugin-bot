@@ -1,0 +1,1 @@
+[{"base_dish": "Bread Dough", "name": "Bread", "buffs": "25 HP, 75 Stamina (for 1800 seconds)"}, {"base_dish": "Uncooked Lox Pie", "name": "Lox Meat Pie", "buffs": "75 HP, 24 Stamina (for 1800 seconds)"}]

@@ -1,0 +1,35 @@
+**Bukeperry**
+Enemy drops
+N/A (neutralises other active food buffs by causing your character to vomit)
+
+**Blueberry**
+Black Forest biome
+8 HP, 25 Stamina (for 600 seconds)
+
+**Carrot**
+Cultivated from seeds found in the Black Forest biome
+10 HP, 32 Stamina (for 900 seconds)
+
+**Cloudberry**
+Plains biome
+13 HP, 40 Stamina (for 900 seconds)
+
+**Honey**
+Beehive (player base structure)
+8 HP, 35 Stamina (for 900 seconds)
+
+**Mushroom**
+Meadows, Black Forest, and Swamp biomes
+15 HP, 15 Stamina (for 900 seconds)
+
+**Onion**
+Cultivated from seeds found in the Mountains biome
+13 HP, 40 Stamina (for 900 seconds)
+
+**Raspberry**
+Meadows biome
+7 HP, 20 Stamina (for 600 seconds)
+
+**Yellow Mushroom**
+Burial Chambers, Troll Caves, and Sunken Crypts
+10 HP, 30 Stamina (for 600 seconds)

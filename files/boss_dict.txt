@@ -1,0 +1,50 @@
+[{
+"name": "Eikthyr",
+"desc": "Eikthyr is the first of the Valheim bosses. An intimidating sight, this giant stag is wrapped in chains and can call forth lightning in large area-of-effect attacks around itself.",
+"biome": "Meadows",
+"find": "Interact with the red runestone at spawn",
+"summon": "Place 2 Deer Trophies on Eikthyr's Mystical Altar",
+"loot": "Hard Antler (required to unlock Pickaxe)",
+"power": "60% less Stamina drain while running/jumping",
+"guide": "https://www.rockpapershotgun.com/valheim-eikthyr-boss-fight-how-to-summon-and-defeat-eikthyr"
+},
+{
+"name": "Elder",
+"desc": "The Elder is a gigantic tree-like being with a humanoid shape that can summon damaging roots from the ground and fire vines towards players.",
+"biome": "Black Forest",
+"find": "Interact with Runestones in the stone structures and Burial Chambers of the Black Forest",
+"summon": "Place 3 Ancient Seeds in the Elder's Mystical Altar",
+"loot": "Swamp Key (unlocks Sunken Crypts in Swamps so you can find Iron)",
+"power": "Faster wood cutting",
+"guide": "https://www.rockpapershotgun.com/valheim-elder-boss-fight-elder-location-how-to-summon-and-beat-the-elder"
+},
+{
+"name": "Bonemass",
+"desc": "Bonemass is a particularly troublesome Valheim boss. Poison and health regeneration are its forte, making it very difficult to tank this gloopsome entity.",
+"biome": "Swamp",
+"find": "Interact with Runestones in Sunken Crypts of the Swamp",
+"summon": "Place 10 Withered Bones on Bonemass's Mystical Altar",
+"loot": "Wishbone (used to find underground treasure including Silver)",
+"power": "Resistance to Blunt/Slash/Pierce damage",
+"guide": "https://www.rockpapershotgun.com/valheim-bonemass-location-how-to-summon-defeat-bonemass"
+},
+{
+"name": "Moder",
+"desc": "Moder is a particularly intimidating boss hiding in a particularly dangerous area of the Valheim world: the mountains. A giant black and white wyvern, Moder flies around and uses ice attacks to slow you down, leaving you vulnerable to her claws.",
+"biome": "Mountains",
+"find": "Interact with Runestones in stone structures in Mountains",
+"summon": "Place 3 Dragon Eggs on Moder's Mystical Altar",
+"loot": "Dragon Tear (used to create Artisan Table)",
+"power": "Always tailwind while sailing",
+"guide": "https://www.rockpapershotgun.com/valheim-moder-location-moder-boss-fight-how-to-summon-defeat-moder"
+},
+{
+"name": "Yagluth",
+"desc": "Yagluth is the fifth and currently final boss in Valheim, and once summoned takes the form of the glowing upper body of a colossal skeleton.",
+"biome": "Plains",
+"find": "Interact with Runestones around standing stones in Plains",
+"summon": "Place 5 Fuling Totems on Yagluth's Mystical Altar",
+"loot": "'Yagluth thing' (placeholder item with no current use)",
+"power": "Resistance to Frost/Fire/Poison damage",
+"guide": "https://www.rockpapershotgun.com/valheim-yagluth-boss-fight-yagluth-location-how-to-summon-defeat-final-boss"
+}]
