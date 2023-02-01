@@ -84,7 +84,8 @@ The following commands can help lead the way
 !recipe "food name" = Get cauldron recipe for specified food. Must use double quotes around food name if more than one word
 !oven = Get a list of every recipe that can be made at the stone oven, the ingredients, and their effect
 
-**BOSSES**
+**ENEMIES**
+!creature "creature name" = Get information on a specific creature. Must use double quotes around creature name if more than one word
 !bosses = Get a list of all the bosses in Valheim and a short description of each boss
 !boss "boss name" = Get information on a specific boss. Double quotes not necessary.
 '''
@@ -191,6 +192,18 @@ async def boss(ctx, name):
 **Loot: **{item['loot']}
 **Power: **{item['power']}
 {item['guide']}''')
+
+@bot.command(help="Get information on a specific creature. Double quotes required around creature name if more than one word")
+async def creature(ctx, name):
+    with open('.\\files\creature_scrape.txt', 'r') as file:
+        data = json.load(file)
+        file.close()
+    for item in data:
+        if item['name'].lower() == name.lower():
+            await ctx.send(f'''
+            **{item['name']}**
+**Found in:** {item['biome']}
+**Drops:** {', '.join(item['drops'])}''')
 
 # RUN BOT -------------------------------------------------------------------------
 
