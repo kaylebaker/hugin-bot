@@ -15,6 +15,7 @@ These commands are designed to provide quick access to information about Valheim
 !recipe "food name" = Get cauldron recipe for specified food. Must use double quotes around food name if more than one word
 !oven = Get a list of every recipe that can be made at the stone oven, the ingredients, and their effect
 
-**BOSSES**
+**ENEMIES**
+!creature "creature name" = Get information on a specific creature. Must use double quotes around creature name if more than one word
 !bosses = Get a list of all the bosses in Valheim and a short description of each boss
 !boss "boss name" = Get information on a specific boss. Double quotes not necessary.
